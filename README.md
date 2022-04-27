@@ -22,4 +22,4 @@ Three datasets were used that are not included in this repository. They are the 
 RAVDESS - https://smartlaboratory.org/ravdess/ \
 SAVEE - http://kahlan.eps.surrey.ac.uk/savee/ \
 TESS - https://tspace.library.utoronto.ca/handle/1807/24487 \
-If you would like to run the SpeechSignalEmotion.ipynb, you will need to gain access to these datasets and put them into the /Datasets directory.
+If you would like to run the SpeechSignalEmotion.ipynb, you will need to gain access to these datasets and put them into the /Datasets directory using the format currently visible.
