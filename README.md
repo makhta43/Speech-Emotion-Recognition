@@ -18,8 +18,8 @@ https://drive.google.com/file/d/1y-mdiV_khLj0BvkN0xdI9DoVERG7VmA6/view?usp=shari
 Run the code in Predictions.ipynb and the GUI will display given that all necessary libraries have been installed.
 
 ## Datasets
-Three datasets were used that are not included in this repository. They are the following:\n
-RAVDESS - https://smartlaboratory.org/ravdess/ \n
-SAVEE - http://kahlan.eps.surrey.ac.uk/savee/ \n
-TESS - https://tspace.library.utoronto.ca/handle/1807/24487 \n
+Three datasets were used that are not included in this repository. They are the following:
+RAVDESS - https://smartlaboratory.org/ravdess/
+SAVEE - http://kahlan.eps.surrey.ac.uk/savee/
+TESS - https://tspace.library.utoronto.ca/handle/1807/24487
 If you would like to run the SpeechSignalEmotion.ipynb, you will need to gain access to these datasets and put them into the /Datasets directory.
