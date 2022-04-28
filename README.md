@@ -1,7 +1,7 @@
 # Speech-Emotion-Recognition
 This is my final year project made for my degree at the University of Bradford
 The main project aims were to research and create a protoytpe for speech emotion recognition.
-There therefore three pythong jupyter files here, predictions, SpeechSignalEmotion and TextEmotion.
+There therefore three python jupyter files here, predictions, SpeechSignalEmotion and TextEmotion.
 
 ### Predictions.ipynb
 This file contains the culmination of my work. 3 trained models working together in a single software with GUI where the user can test any audio file they like for a prediction from the software.
