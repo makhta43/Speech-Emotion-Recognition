@@ -1,4 +1,5 @@
 # Speech-Emotion-Recognition
+![image](https://user-images.githubusercontent.com/60355260/166167011-02f5d09c-c63a-43a5-bdc5-26d9fed39e11.png)
 This is my final year project made for my degree at the University of Bradford
 The main project aims were to research and create a protoytpe for speech emotion recognition.
 There therefore three python jupyter files here, predictions, SpeechSignalEmotion and TextEmotion.
